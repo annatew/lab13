@@ -16,22 +16,22 @@ const images = [
   {
     label: '',
     imgPath:
-      'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.automobile-magazine.fr%2Fmatchs%2Farticle%2F17646-essai-comparatif-la-ds-e-tense-face-a-la-bmw-i8&psig=AOvVaw3s0CfzwdMsL029jRLpp6f9&ust=1698264301629000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND3oNW9j4IDFQAAAAAdAAAAABAE',
+      'https://images.unsplash.com/photo-1587893143434-c3bf317d6c76?auto=format&fit=crop&q=180&w=1887&h=800',
   },
   {
     label: '',
     imgPath:
-      'https://images.unsplash.com/photo-1538032746644-0212e812a9e7?auto=format&fit=crop&w=400&h=250&q=60',
+      'https://images.unsplash.com/photo-1519283053578-3efb9d2e71bd?auto=format&fit=crop&q=180&w=1887&h=800',
   },
   {
     label: '',
     imgPath:
-      'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=400&h=250',
+      'https://images.unsplash.com/photo-1510903117032-f1596c327647?auto=format&fit=crop&q=180&w=1887&h=800',
   },
   {
     label: '',
     imgPath:
-      'https://images.unsplash.com/photo-1512341689857-198e7e2f3ca8?auto=format&fit=crop&w=400&h=250&q=60',
+      'https://images.unsplash.com/photo-1520608760-eff2c44afa2b?auto=format&fit=crop&q=180&w=1887&h=800',
   },
 ];
 
